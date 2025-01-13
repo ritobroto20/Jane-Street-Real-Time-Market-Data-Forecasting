@@ -1,5 +1,7 @@
 numpy
 pandas 
 matplotlib
-scipy
+torch
+polars-lts-cpu
 scikit-learn
+seaborn
