@@ -1,11 +1,11 @@
-numpy
+numpy<2
 pandas 
 matplotlib
 torch
 polars-lts-cpu
 scikit-learn
 seaborn
-pyarrow
+pyarrow==14.0.0
 torchvision
 tqdm
 statsmodels
