@@ -9,3 +9,4 @@ pyarrow
 torchvision
 tqdm
 statsmodels
+pypalettes
